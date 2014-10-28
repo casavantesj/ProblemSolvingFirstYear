@@ -1,4 +1,0 @@
-cat/./; is	'[]]@# running from
-
-
- dog
